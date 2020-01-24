@@ -32,5 +32,5 @@ Finally, click File -> Save Module...
 Pick a filename (it's a good idea to not overwrite the original SoundShift EXE), and click OK.  
 Congratulations, you have successfully modified the Sound Shift program sort method.  
 
-While I was here, I also chose to modify the checkBoxGears.Checked state in the InitializeComponent() method to `false`, so that this would be the default.  
+While I was here, I also chose to modify the checkBoxGears.Checked state in the InitializeComponent() method to `false`, so that this would be the default. This is not necessary; to tweak this, you can create an entry in the Registry in `HKEY_CURRENT_USER\Software\nSpace\Sound Shift\4.x` of the type `String` named `Gears` and set to `False`.
 SoundShift only loads data about your settings from the vehicles.ini once per car, after that it always reads your modified settings from the registry. These include the status of gear count, beep enable and simple RPM mode. However, if you have the gear count enabled, it will automatically save that on a car-by-car basis to the registry. The car names, however, are always read from the vehicles.ini.
