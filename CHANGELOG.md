@@ -1,34 +1,73 @@
 # Changelog
 
-## Update list to comply with new iRacing naming scheme 2020S2P2 (28/03/2020)
+## 2020-09-17 (17/09/2020)
+
+#### Vehicles
+
+- Add c8rvettegte [#27](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/27)
+- Add dallarap217 [#28](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/28)
 
 ---
 
-## 20200306 (07/03/2020)
-- [Added Porsche GT4](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/6dab0c2b499faf38b591b161c695ffaf7ac5aedc) - @redion1992
+## 2010-08-01 (01/08/2020)
+
+#### Vehicles
+
+- Edit USF 2000 is 6 speeds [#24](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/24)
 
 ---
 
-## 20200205 (06/02/2020)
-- [Update Cup cars title to match 2020S1P3H1](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/a4d6c30d6562382813defc212edae467f7f3b667) - @redion1992
+## 2020-07-08 (08/07/2020)
+
+#### Vehicles
+
+- Edit NASCAR Chevrolet Silverado 2015 & 2019 [#22](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/22)
 
 ---
 
-## 20200125 (25/01/2020)
-- [Add/rename cars](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/c296d59492797f96b440c7804e2fddeef5f18622) - @redion1992
+## 2020-06-09 (09/06/2020)
+
+#### Vehicles
+
+- Add NASCAR Gander Outdoors Ford F150 [#21](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/21)
+- Add '87 Stock Cars [#19](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/19)
+- Add BMW M4 GT4 [#18](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/18)
+- Add US F2000 [#17](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/17)
+- Add Indy Pro 2000 PM-18 [#16](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/16)
+
+#### Maintenance
+
+- Update with iRacing naming scheme 2020S2P2 [#15](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/15)
 
 ---
 
-## 20191231 (31/12/2019)
-- [Added Supercars 2019](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/e3733cdbd73a9c54e489074cbb10f077123295a5) - @samkatakouzinos
-- [added audirs3lms,Audi RS 3 LMS,6,6600](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/22e976b072e8c65b4b72fb17ed03bf07063177cd) - @Fuzzwah
-- [added pro trucks](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/58f750254f7acb80a51ce441fcdce06745aa9554) - @Fuzzwah
-- [Update README.md](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/2000d0131d8fe4c529de2daa84e3f452f2290a88) - @samkatakouzinosracing
-- [Create CODE_OF_CONDUCT.md](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/cf624279af7ef3300e6a13e94676cb5e8b3075f7) - @samkatakouzinosracing
-- [add dallaraf3](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/e4c518878a6c26a8a1b7e4522f58fb5c0cba6fa4) - @samkatakouzinosracing
-- [add formularenault35](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/0d41fb730fc5f8098d61193e315ea60fe60f548c) - @samkatakouzinosracing
-- [added bmw m8 gte](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/7196251d359a141852d3e64f6a705b61753672d1) - @Fuzzwah
-- [vehicles.ini sorted alphabetically](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/f93ba3aa0cb0dd0c33e55282eb49f77ccc64f8fd) - @samkatakouzinosracing
-- [vehicles.ini updated 20180612](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/bde84eaba5ef1029a9ee78d8849ff5bfdd1d1ec1) - @samkatakouzinosracing
-- [Original vehicles.ini](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/c98f1fbad61ecdf2971f1b681461ac936b9ce6cc) - @samkatakouzinosracing
-- [Initial commit](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/commit/b1dbf3157c6986b3f420458ab7d7c174126fa43a) - @samkatakouzinosracing
+## 2020-03-07 (07/03/2020)
+
+#### Vehicles
+
+- Add Porsche Cayman GT4 [#11](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/11)
+
+---
+
+## 2020-02-06 (06/02/2020)
+
+#### Vehicles
+
+- Edit NASCAR Cup branding update [#10](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/10)
+
+#### Maintenance
+
+- Sort list to match iRacing's current state (2020S1) [#9](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/9)
+
+---
+
+## 2019-12-31 (31/12/2019)
+
+#### Vehicles
+
+- Add Supercars 2019 [#8](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/8)
+- Add Audi RS 3 LMS [#7](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/7)
+- Add Pro Trucks [#6](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/6)
+- Add Formula Renault 3.5 [#2](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/2)
+- Add Dallara F3 [#3](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/3)
+- Add BMW M8 GTE [#1](https://github.com/samkatakouzinosracing/nspace.hu-soundshift/pull/1)
