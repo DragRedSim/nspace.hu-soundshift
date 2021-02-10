@@ -1,0 +1,9 @@
+How to modify the sorting order in Sound Shift:
+Download and unzip dnSpy from GitHub
+Run dnSpy-x86.exe, and drag in the Sound Shift exe
+Navigate to Sound Shift -> Sound Shift.exe -> Sound_Shift -> MainForm -> .ctor()
+Right-click, Edit Method (C#)
+Delete the line "base..ctor();" (line 56)
+Replace everything right of the => symbol on line 59 with the following (no quotes): "string.CompareOrdinal(a.Alias, b.Alias));"
+Click Compile
+File -> Save Module...
